@@ -75,7 +75,7 @@
     "babel-eslint": "^10.1.0",
     "babel-plugin-lodash": "^3.3.4",
     "babel-plugin-react-intl": "^7.9.2",
-    "babel-plugin-styled-components": "^1.13.1",
+    "babel-plugin-styled-components": "^1.13.2",
     "codecov": "^3.8.2",
     "commitizen": "^4.2.4",
     "cross-env": "^7.0.3",
